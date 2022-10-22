@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hop2c2022/component-by-hulugen.git/static/css/main.229c1aa4.css",
+    "main.js": "/Hop2c2022/component-by-hulugen.git/static/js/main.6ca98617.js",
+    "static/js/787.3c167a06.chunk.js": "/Hop2c2022/component-by-hulugen.git/static/js/787.3c167a06.chunk.js",
+    "static/media/logo.svg": "/Hop2c2022/component-by-hulugen.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Hop2c2022/component-by-hulugen.git/index.html",
+    "main.229c1aa4.css.map": "/Hop2c2022/component-by-hulugen.git/static/css/main.229c1aa4.css.map",
+    "main.6ca98617.js.map": "/Hop2c2022/component-by-hulugen.git/static/js/main.6ca98617.js.map",
+    "787.3c167a06.chunk.js.map": "/Hop2c2022/component-by-hulugen.git/static/js/787.3c167a06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.229c1aa4.css",
+    "static/js/main.6ca98617.js"
+  ]
+}
